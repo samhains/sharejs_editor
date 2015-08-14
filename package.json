@@ -1,0 +1,22 @@
+{
+  "name": "share",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserchannel": "^2.0.0",
+    "connect": "^1.9.2",
+    "express": "^4.13.3",
+    "livedb": "^0.5.13",
+    "livedb-postgresql": "^2.0.0",
+    "optimist": "^0.6.1",
+    "pg": "^4.4.1",
+    "pg-native": "^1.8.1",
+    "share": "^0.6.3"
+  }
+}
